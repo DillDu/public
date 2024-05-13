@@ -3,4 +3,6 @@
 Oriented[[:space:]]Ellipse[[:space:]]Fitting[[:space:]]and[[:space:]]3D[[:space:]]Circle[[:space:]]Estimation filter=lfs diff=lfs merge=lfs -text
 mycfg.zip filter=lfs diff=lfs merge=lfs -text
 trident_dataset.zip filter=lfs diff=lfs merge=lfs -text
+Oriented[[:space:]]Ellipse[[:space:]]Fitting[[:space:]]and[[:space:]]3D[[:space:]]Circle[[:space:]]Estimation/demo1.mp4 filter=lfs diff=lfs merge=lfs -text
+Oriented[[:space:]]Ellipse[[:space:]]Fitting[[:space:]]and[[:space:]]3D[[:space:]]Circle[[:space:]]Estimation/demo2.mp4 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
